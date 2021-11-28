@@ -1,0 +1,29 @@
+.image{
+  border-radius: 50%;
+}
+.center {
+  display: flex;
+  width:200px;
+  height: 35px;
+ 
+}
+
+i{
+  color:rgb(66, 63, 63);
+}
+a{
+  color: #000;
+}
+
+
+.fas{
+  width: 30px;
+  height: 10px;
+}
+.image-adj{
+  
+  margin-bottom:10px;
+}
+row:hover{
+  transition: scale 1.08em;;
+}
