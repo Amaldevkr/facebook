@@ -24,6 +24,11 @@ a{
   
   margin-bottom:10px;
 }
-row:hover{
-  transition: scale 1.08em;;
+.image1{
+  border-radius:30px;
 }
+.image1:hover{
+  transform: scale(1.01);
+}
+
+
